@@ -2,7 +2,7 @@
   
 ![short](https://user-images.githubusercontent.com/56200241/200158071-aa2fb568-dfb3-44a0-aac3-66998ab4acd3.jpg)
   
-stc平台下的ER9X(FlySky)ppm接收和发射模块
+stc平台下的ER9X(FlySky)ppm接收和发射模块  
 1.单片机可使用stc15w104或stc15w204s(其他型号引脚名称相同的应该也可以，下载时在软件里选择相同引脚定义的单片机型号即可)  
 2.目前共上传4个固件，分别为stc15w104平台下的发射和接收固件、stc15w204s平台下的发射和接收固件  
 3.下载过步骤和硬件连接移步“固件烧录说明”文件夹  
